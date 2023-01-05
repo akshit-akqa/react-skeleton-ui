@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-skeleton-ui/static/css/main.56b4ea48.css",
+    "main.js": "/react-skeleton-ui/static/js/main.48139923.js",
+    "index.html": "/react-skeleton-ui/index.html",
+    "main.56b4ea48.css.map": "/react-skeleton-ui/static/css/main.56b4ea48.css.map",
+    "main.48139923.js.map": "/react-skeleton-ui/static/js/main.48139923.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b4ea48.css",
+    "static/js/main.48139923.js"
+  ]
+}
